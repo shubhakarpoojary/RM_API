@@ -1,0 +1,662 @@
+D:\Component\WServices\WServices\bin\ApplicationInsights.config
+D:\Component\WServices\WServices\bin\roslyn\csc.exe
+D:\Component\WServices\WServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Component\WServices\WServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Component\WServices\WServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Component\WServices\WServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Component\WServices\WServices\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Component\WServices\WServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Component\WServices\WServices\bin\roslyn\System.Collections.Immutable.dll
+D:\Component\WServices\WServices\bin\roslyn\System.Reflection.Metadata.dll
+D:\Component\WServices\WServices\bin\roslyn\vbc.exe
+D:\Component\WServices\WServices\bin\roslyn\VBCSCompiler.exe
+D:\Component\WServices\WServices\bin\roslyn\VBCSCompiler.exe.config
+D:\Component\WServices\WServices\bin\WServices.dll.config
+D:\Component\WServices\WServices\bin\WServices.dll
+D:\Component\WServices\WServices\bin\WServices.pdb
+D:\Component\WServices\WServices\bin\Antlr3.Runtime.dll
+D:\Component\WServices\WServices\bin\EntityFramework.dll
+D:\Component\WServices\WServices\bin\EntityFramework.SqlServer.dll
+D:\Component\WServices\WServices\bin\MCPG.CCA.Util.dll
+D:\Component\WServices\WServices\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Component\WServices\WServices\bin\Microsoft.AI.DependencyCollector.dll
+D:\Component\WServices\WServices\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Component\WServices\WServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Component\WServices\WServices\bin\Microsoft.AI.Web.dll
+D:\Component\WServices\WServices\bin\Microsoft.AI.WindowsServer.dll
+D:\Component\WServices\WServices\bin\Microsoft.ApplicationInsights.dll
+D:\Component\WServices\WServices\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Component\WServices\WServices\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Component\WServices\WServices\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Component\WServices\WServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Component\WServices\WServices\bin\Microsoft.MsSQL.DB.dll
+D:\Component\WServices\WServices\bin\Microsoft.Owin.dll
+D:\Component\WServices\WServices\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Component\WServices\WServices\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Component\WServices\WServices\bin\Microsoft.Owin.Security.dll
+D:\Component\WServices\WServices\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Component\WServices\WServices\bin\Microsoft.Owin.Security.Google.dll
+D:\Component\WServices\WServices\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Component\WServices\WServices\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Component\WServices\WServices\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Component\WServices\WServices\bin\Microsoft.Web.Infrastructure.dll
+D:\Component\WServices\WServices\bin\Newtonsoft.Json.dll
+D:\Component\WServices\WServices\bin\Owin.dll
+D:\Component\WServices\WServices\bin\System.Net.Http.Formatting.dll
+D:\Component\WServices\WServices\bin\System.Web.Helpers.dll
+D:\Component\WServices\WServices\bin\System.Web.Http.dll
+D:\Component\WServices\WServices\bin\System.Web.Http.Owin.dll
+D:\Component\WServices\WServices\bin\System.Web.Http.WebHost.dll
+D:\Component\WServices\WServices\bin\System.Web.Mvc.dll
+D:\Component\WServices\WServices\bin\System.Web.Optimization.dll
+D:\Component\WServices\WServices\bin\System.Web.Razor.dll
+D:\Component\WServices\WServices\bin\System.Web.WebPages.Deployment.dll
+D:\Component\WServices\WServices\bin\System.Web.WebPages.dll
+D:\Component\WServices\WServices\bin\System.Web.WebPages.Razor.dll
+D:\Component\WServices\WServices\bin\WebGrease.dll
+D:\Component\WServices\WServices\bin\WFramework.dll
+D:\Component\WServices\WServices\bin\Microsoft.AI.DependencyCollector.xml
+D:\Component\WServices\WServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Component\WServices\WServices\bin\Microsoft.AI.Web.xml
+D:\Component\WServices\WServices\bin\Microsoft.AI.WindowsServer.xml
+D:\Component\WServices\WServices\bin\Microsoft.ApplicationInsights.xml
+D:\Component\WServices\WServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Component\WServices\WServices\bin\System.Web.Helpers.xml
+D:\Component\WServices\WServices\bin\System.Web.Mvc.xml
+D:\Component\WServices\WServices\bin\System.Web.Razor.xml
+D:\Component\WServices\WServices\bin\System.Web.WebPages.xml
+D:\Component\WServices\WServices\bin\System.Web.WebPages.Deployment.xml
+D:\Component\WServices\WServices\bin\System.Web.WebPages.Razor.xml
+D:\Component\WServices\WServices\bin\System.Net.Http.Formatting.xml
+D:\Component\WServices\WServices\bin\System.Web.Http.xml
+D:\Component\WServices\WServices\bin\System.Web.Http.WebHost.xml
+D:\Component\WServices\WServices\bin\System.Web.Optimization.xml
+D:\Component\WServices\WServices\bin\Antlr3.Runtime.pdb
+D:\Component\WServices\WServices\bin\WFramework.pdb
+D:\Component\WServices\WServices\bin\EntityFramework.xml
+D:\Component\WServices\WServices\bin\EntityFramework.SqlServer.xml
+D:\Component\WServices\WServices\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Component\WServices\WServices\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Component\WServices\WServices\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Component\WServices\WServices\bin\Microsoft.Owin.xml
+D:\Component\WServices\WServices\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Component\WServices\WServices\bin\Microsoft.Owin.Security.xml
+D:\Component\WServices\WServices\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Component\WServices\WServices\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Component\WServices\WServices\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Component\WServices\WServices\bin\Microsoft.Owin.Security.Google.xml
+D:\Component\WServices\WServices\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Component\WServices\WServices\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Component\WServices\WServices\bin\System.Web.Http.Owin.xml
+D:\Component\WServices\WServices\obj\Debug\WServices.csprojResolveAssemblyReference.cache
+D:\Component\WServices\WServices\obj\Debug\WServices.dll
+D:\Component\WServices\WServices\obj\Debug\WServices.pdb
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\ApplicationInsights.config
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\roslyn\csc.exe
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\roslyn\System.Collections.Immutable.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\roslyn\System.Reflection.Metadata.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\roslyn\vbc.exe
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\roslyn\VBCSCompiler.exe
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\roslyn\VBCSCompiler.exe.config
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\WServices.dll.config
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\WServices.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\WServices.pdb
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Antlr3.Runtime.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\EntityFramework.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\EntityFramework.SqlServer.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.AI.DependencyCollector.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.AI.Web.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.AI.WindowsServer.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.ApplicationInsights.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.Owin.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.Owin.Security.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.Owin.Security.Google.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.Web.Infrastructure.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Owin.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\System.Net.Http.Formatting.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\System.Web.Helpers.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\System.Web.Http.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\System.Web.Http.Owin.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\System.Web.Http.WebHost.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\System.Web.Optimization.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\System.Web.Razor.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\System.Web.WebPages.Deployment.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\System.Web.WebPages.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\System.Web.WebPages.Razor.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\WebGrease.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\WFramework.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.MsSQL.DB.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.AI.DependencyCollector.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.AI.Web.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.AI.WindowsServer.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.ApplicationInsights.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\System.Web.Helpers.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\System.Web.Razor.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\System.Web.WebPages.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\System.Web.WebPages.Deployment.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\System.Web.WebPages.Razor.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\System.Net.Http.Formatting.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\System.Web.Http.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\System.Web.Http.WebHost.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\System.Web.Optimization.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Antlr3.Runtime.pdb
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\WFramework.pdb
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\EntityFramework.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\EntityFramework.SqlServer.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.Owin.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.Owin.Security.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.Owin.Security.Google.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\bin\System.Web.Http.Owin.xml
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\obj\Debug\WServices.dll
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\obj\Debug\WServices.pdb
+D:\Madhu24_Jan\to shravan\to shravan\WServices\WServices\obj\Debug\WServices.csprojResolveAssemblyReference.cache
+D:\Shrava07-02-2020\WServices\WServices\bin\ApplicationInsights.config
+D:\Shrava07-02-2020\WServices\WServices\bin\roslyn\csc.exe
+D:\Shrava07-02-2020\WServices\WServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Shrava07-02-2020\WServices\WServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Shrava07-02-2020\WServices\WServices\bin\roslyn\System.Collections.Immutable.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\roslyn\System.Reflection.Metadata.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\roslyn\vbc.exe
+D:\Shrava07-02-2020\WServices\WServices\bin\roslyn\VBCSCompiler.exe
+D:\Shrava07-02-2020\WServices\WServices\bin\roslyn\VBCSCompiler.exe.config
+D:\Shrava07-02-2020\WServices\WServices\bin\WServices.dll.config
+D:\Shrava07-02-2020\WServices\WServices\bin\WServices.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\WServices.pdb
+D:\Shrava07-02-2020\WServices\WServices\bin\Antlr3.Runtime.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\EntityFramework.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\EntityFramework.SqlServer.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.AI.DependencyCollector.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.AI.Web.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.AI.WindowsServer.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.ApplicationInsights.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.Owin.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.Owin.Security.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.Owin.Security.Google.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.Web.Infrastructure.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\Owin.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\System.Net.Http.Formatting.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\System.Web.Helpers.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\System.Web.Http.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\System.Web.Http.Owin.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\System.Web.Http.WebHost.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\System.Web.Optimization.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\System.Web.Razor.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\System.Web.WebPages.Deployment.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\System.Web.WebPages.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\System.Web.WebPages.Razor.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\WebGrease.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\WFramework.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.AI.DependencyCollector.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.AI.Web.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.AI.WindowsServer.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.ApplicationInsights.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\System.Web.Helpers.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\System.Web.Razor.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\System.Web.WebPages.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\System.Web.WebPages.Deployment.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\System.Web.WebPages.Razor.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\System.Net.Http.Formatting.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\System.Web.Http.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\System.Web.Http.WebHost.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\System.Web.Optimization.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\Antlr3.Runtime.pdb
+D:\Shrava07-02-2020\WServices\WServices\bin\WFramework.pdb
+D:\Shrava07-02-2020\WServices\WServices\bin\EntityFramework.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\EntityFramework.SqlServer.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.Owin.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.Owin.Security.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.Owin.Security.Google.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\System.Web.Http.Owin.xml
+D:\Shrava07-02-2020\WServices\WServices\obj\Debug\WServices.dll
+D:\Shrava07-02-2020\WServices\WServices\obj\Debug\WServices.pdb
+D:\Shrava07-02-2020\WServices\WServices\bin\System.Web.Cors.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\System.Web.Http.Cors.dll
+D:\Shrava07-02-2020\WServices\WServices\bin\System.Web.Http.Cors.xml
+D:\Shrava07-02-2020\WServices\WServices\bin\Microsoft.MsSQL.DB.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\obj\Debug\WServices.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\obj\Debug\WServices.pdb
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\ApplicationInsights.config
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\roslyn\csc.exe
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\roslyn\System.Collections.Immutable.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\roslyn\System.Reflection.Metadata.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\roslyn\vbc.exe
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\roslyn\VBCSCompiler.exe
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\roslyn\VBCSCompiler.exe.config
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\WServices.dll.config
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\WServices.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\WServices.pdb
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Antlr3.Runtime.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\EntityFramework.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\EntityFramework.SqlServer.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.AI.DependencyCollector.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.AI.Web.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.AI.WindowsServer.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.ApplicationInsights.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.Owin.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.Owin.Security.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.Owin.Security.Google.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.Web.Infrastructure.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Owin.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\System.Net.Http.Formatting.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\System.Web.Cors.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\System.Web.Helpers.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\System.Web.Http.Cors.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\System.Web.Http.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\System.Web.Http.Owin.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\System.Web.Http.WebHost.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\System.Web.Optimization.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\System.Web.Razor.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\System.Web.WebPages.Deployment.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\System.Web.WebPages.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\System.Web.WebPages.Razor.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\WebGrease.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\WFramework.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\WinAppsMarsah.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.MsSQL.DB.dll
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.AI.DependencyCollector.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.AI.Web.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.AI.WindowsServer.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.ApplicationInsights.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\System.Net.Http.Formatting.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\System.Web.Helpers.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\System.Web.Http.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\System.Web.Http.Cors.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\System.Web.Razor.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\System.Web.WebPages.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\System.Web.WebPages.Deployment.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\System.Web.WebPages.Razor.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\System.Web.Http.WebHost.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\System.Web.Optimization.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Antlr3.Runtime.pdb
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\WFramework.pdb
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\WinAppsMarsah.pdb
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\EntityFramework.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\EntityFramework.SqlServer.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.Owin.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.Owin.Security.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.Owin.Security.Google.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\bin\System.Web.Http.Owin.xml
+D:\Settings_Merge_March_4\WServices (3)\WServices\WServices\obj\Debug\WServices.csprojResolveAssemblyReference.cache
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\ApplicationInsights.config
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\roslyn\csc.exe
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\roslyn\System.Collections.Immutable.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\roslyn\System.Reflection.Metadata.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\roslyn\vbc.exe
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\roslyn\VBCSCompiler.exe
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\roslyn\VBCSCompiler.exe.config
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\WServices.dll.config
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\WServices.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\WServices.pdb
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Antlr3.Runtime.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\EntityFramework.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\EntityFramework.SqlServer.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\ExcelDataReader.DataSet.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\ExcelDataReader.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\itextsharp.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.AI.DependencyCollector.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.AI.Web.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.AI.WindowsServer.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.ApplicationInsights.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.Owin.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.Owin.Security.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.Owin.Security.Google.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.Web.Infrastructure.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Owin.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\System.Net.Http.Formatting.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\System.Web.Cors.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\System.Web.Helpers.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\System.Web.Http.Cors.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\System.Web.Http.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\System.Web.Http.Owin.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\System.Web.Http.WebHost.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\System.Web.Optimization.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\System.Web.Razor.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\System.Web.WebPages.Deployment.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\System.Web.WebPages.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\System.Web.WebPages.Razor.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\WebGrease.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\WFramework.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.MsSQL.DB.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\ExcelDataReader.pdb
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\ExcelDataReader.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\ExcelDataReader.DataSet.pdb
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\ExcelDataReader.DataSet.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.AI.DependencyCollector.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.AI.Web.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.AI.WindowsServer.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.ApplicationInsights.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\System.Net.Http.Formatting.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\System.Web.Helpers.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\System.Web.Http.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\System.Web.Http.Cors.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\System.Web.Razor.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\System.Web.WebPages.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\System.Web.WebPages.Deployment.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\System.Web.WebPages.Razor.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\System.Web.Http.WebHost.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\System.Web.Optimization.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Antlr3.Runtime.pdb
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\WFramework.pdb
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\EntityFramework.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\EntityFramework.SqlServer.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.Owin.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.Owin.Security.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.Owin.Security.Google.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\bin\System.Web.Http.Owin.xml
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\obj\Debug\WServices.dll
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\obj\Debug\WServices.pdb
+D:\Shubhakar\WincentShop_19_03_2020\API\WServices\WServices\obj\Debug\WServices.csprojResolveAssemblyReference.cache
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\ApplicationInsights.config
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\roslyn\csc.exe
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\roslyn\System.Collections.Immutable.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\roslyn\System.Reflection.Metadata.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\roslyn\vbc.exe
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\roslyn\VBCSCompiler.exe
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\roslyn\VBCSCompiler.exe.config
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\WServices.dll.config
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\WServices.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\WServices.pdb
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Antlr3.Runtime.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\EntityFramework.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\EntityFramework.SqlServer.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\ExcelDataReader.DataSet.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\ExcelDataReader.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\itextsharp.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.AI.DependencyCollector.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.AI.Web.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.AI.WindowsServer.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.ApplicationInsights.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.Owin.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.Owin.Security.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.Owin.Security.Google.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.Web.Infrastructure.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Owin.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\System.Net.Http.Formatting.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\System.Web.Cors.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\System.Web.Helpers.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\System.Web.Http.Cors.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\System.Web.Http.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\System.Web.Http.Owin.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\System.Web.Http.WebHost.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\System.Web.Optimization.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\System.Web.Razor.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\System.Web.WebPages.Deployment.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\System.Web.WebPages.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\System.Web.WebPages.Razor.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\WebGrease.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\WFramework.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.MsSQL.DB.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\WinAppsValidate.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\ExcelDataReader.pdb
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\ExcelDataReader.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\ExcelDataReader.DataSet.pdb
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\ExcelDataReader.DataSet.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.AI.DependencyCollector.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.AI.Web.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.AI.WindowsServer.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.ApplicationInsights.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\System.Net.Http.Formatting.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\System.Web.Helpers.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\System.Web.Http.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\System.Web.Http.Cors.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\System.Web.Razor.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\System.Web.WebPages.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\System.Web.WebPages.Deployment.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\System.Web.WebPages.Razor.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\System.Web.Http.WebHost.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\System.Web.Optimization.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Antlr3.Runtime.pdb
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\WFramework.pdb
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\EntityFramework.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\EntityFramework.SqlServer.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.Owin.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.Owin.Security.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.Owin.Security.Google.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\bin\System.Web.Http.Owin.xml
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\obj\Debug\WServices.csprojResolveAssemblyReference.cache
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\obj\Debug\WServices.dll
+D:\Shubhakar\Restaurent Management\API\WServices\WServices\obj\Debug\WServices.pdb
+E:\A_ Resturant_05_12_2020\WServices\WServices\obj\Debug\WServices.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\obj\Debug\WServices.pdb
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\ApplicationInsights.config
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\roslyn\csc.exe
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\roslyn\System.Collections.Immutable.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\roslyn\System.Reflection.Metadata.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\roslyn\vbc.exe
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\roslyn\VBCSCompiler.exe
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\roslyn\VBCSCompiler.exe.config
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\WServices.dll.config
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\WServices.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\WServices.pdb
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Antlr3.Runtime.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\EntityFramework.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\EntityFramework.SqlServer.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.AI.Agent.Intercept.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.AI.DependencyCollector.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.AI.Web.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.AI.WindowsServer.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.ApplicationInsights.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.AspNet.Identity.Core.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.Owin.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.Owin.Security.Cookies.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.Owin.Security.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.Owin.Security.Facebook.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.Owin.Security.Google.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.Owin.Security.OAuth.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.Owin.Security.Twitter.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.Web.Infrastructure.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Owin.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\System.Net.Http.Formatting.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\System.Web.Cors.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\System.Web.Helpers.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\System.Web.Http.Cors.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\System.Web.Http.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\System.Web.Http.Owin.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\System.Web.Http.WebHost.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\System.Web.Optimization.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\System.Web.Razor.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\System.Web.WebPages.Deployment.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\System.Web.WebPages.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\System.Web.WebPages.Razor.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\WebGrease.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\WFramework.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.MsSQL.DB.dll
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\ExcelDataReader.pdb
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\ExcelDataReader.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\ExcelDataReader.DataSet.pdb
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\ExcelDataReader.DataSet.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.AI.DependencyCollector.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.AI.Web.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.AI.WindowsServer.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.ApplicationInsights.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\System.Net.Http.Formatting.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\System.Web.Helpers.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\System.Web.Http.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\System.Web.Http.Cors.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\System.Web.Razor.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\System.Web.WebPages.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\System.Web.WebPages.Deployment.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\System.Web.WebPages.Razor.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\System.Web.Http.WebHost.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\System.Web.Optimization.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Antlr3.Runtime.pdb
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\WFramework.pdb
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\EntityFramework.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\EntityFramework.SqlServer.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.AspNet.Identity.Core.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.Owin.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.Owin.Security.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.Owin.Security.Facebook.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.Owin.Security.Cookies.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.Owin.Security.OAuth.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.Owin.Security.Google.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.Owin.Security.Twitter.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\bin\System.Web.Http.Owin.xml
+E:\A_ Resturant_05_12_2020\WServices\WServices\obj\Debug\WServices.csprojResolveAssemblyReference.cache
